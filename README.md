@@ -2,6 +2,13 @@
 
 A simple digital clock built using Python and Tkinter.
 
+
+## Tech
+-Python
+
+-Tkinter
+
+
 ## Features
 - Real-time clock
 - GUI using Tkinter
@@ -10,7 +17,3 @@ A simple digital clock built using Python and Tkinter.
 ## How to Run
 ```bash
 python digital clock.py
-
-## Tech Used
--Python
--Tkinter
